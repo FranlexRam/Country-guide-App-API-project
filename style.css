@@ -29,7 +29,7 @@ html, body {
 
 h1 {
   position: absolute;
-  top: 40%;
+  top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: #efefef;
@@ -37,7 +37,7 @@ h1 {
 
 input {
   position: absolute;
-  top: 50%;
+  top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
@@ -71,4 +71,48 @@ input:focus,
 input:not(:placeholder-shown) {
   width: 250px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 #FFB870;
+}
+
+#result {
+  text-align: center;
+  margin-top: 1.25em;
+  position: absolute;
+  top: 25%;
+  left: 0%;
+}
+
+.container .flag-img {
+  display: block;
+  width: 45%;
+  min-width: 7.5em;
+  margin: 1.8em auto 1.2em auto;
+}
+
+.container h2 {
+  font-weight: 600;
+  color: #efefef;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 1.8em;
+}
+
+.data-wrapper {
+  margin-bottom: 1em;
+  letter-spacing: 0.3px;
+}
+
+.container h4 {
+  display: inline;
+  font-weight: 500;
+  color: #efefef;
+}
+
+.container span {
+  color: #efefef;
+}
+
+.container h3 {
+  text-align: center;
+  color: #efefef;
 }
