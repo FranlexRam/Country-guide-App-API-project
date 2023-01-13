@@ -3,16 +3,15 @@
 // const result = document.getElementById('result')
 
 document.addEventListener("DOMContentLoaded", e => {
-    fetchData()
+    fetchData(e)
 })
 
 const fetchData = async () => {
     try {
         const res = await fetch('testApi.json')
         const data = await res.json()
-        banderillas(data)
+        // banderillas(data)
         formularioCliente(data)
-        filtros(data)
     } catch (error) {
         console.log(error)
     }
@@ -56,7 +55,7 @@ const formularioCliente = data => {
     searchInput.addEventListener('keyup', e => {
         e.preventDefault()
         const letraCliente = searchInput.value.toLowerCase()
-        // console.log(letraCliente)
+        
         const arrayFiltrado = data.filter(item => {
             const letraApi = item.name.toLowerCase()
             if (letraApi.indexOf(letraCliente) !== -1) {
