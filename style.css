@@ -65,6 +65,7 @@ input:focus::placeholder {
 
 input:hover {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 #FFB870;
+  cursor: pointer;
 }
 
 input:focus,
@@ -75,10 +76,11 @@ input:not(:placeholder-shown) {
 
 #result {
   text-align: center;
-  margin-top: 1.25em;
-  position: absolute;
+  /* margin-top: 1.25em; */
+  margin-top: 12.55em;
+  /* position: absolute;
   top: 25%;
-  left: 0%;
+  left: 0%;*/
 }
 
 .container .flag-img {
@@ -94,7 +96,7 @@ input:not(:placeholder-shown) {
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 2px;
-  margin-bottom: 1.8em;
+  margin-bottom: 0.8em;
 }
 
 .data-wrapper {

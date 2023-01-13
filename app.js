@@ -21,7 +21,7 @@ const banderillas = data => {
     let elementos = ''
     data.forEach(item => {
         elementos += `
-        <img src="${item.flags}" class="flag-img">
+        <img src="${item.flag}" class="flag-img">
         <h2>${item.name}</h2>
         <div class="wrapper">
             <div class="data-wrapper">

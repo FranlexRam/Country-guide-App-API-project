@@ -76,7 +76,7 @@
     "hr": "Afganistan",
     "fa": "افغانستان"
     },
-    "flag": "https://flagcdn.com/ve.svg/afg.svg",
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
     "regionalBlocs": [
     {
     "acronym": "SAARC",
@@ -147,7 +147,7 @@
     "hr": "Ålandski otoci",
     "fa": "جزایر الند"
     },
-    "flag": "https://flagcdn.com/ve.svg/ala.svg",
+    "flag": "https://flagcdn.com/ala.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -223,7 +223,7 @@
     "hr": "Albanija",
     "fa": "آلبانی"
     },
-    "flag": "https://flagcdn.com/ve.svg/alb.svg",
+    "flag": "https://flagcdn.com/alb.svg",
     "regionalBlocs": [
     {
     "acronym": "CEFTA",
@@ -301,7 +301,7 @@
     "hr": "Alžir",
     "fa": "الجزایر"
     },
-    "flag": "https://flagcdn.com/ve.svg/dza.svg",
+    "flag": "https://flagcdn.com/dza.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -394,7 +394,7 @@
     "hr": "Američka Samoa",
     "fa": "ساموآی آمریکا"
     },
-    "flag": "https://flagcdn.com/ve.svg/asm.svg",
+    "flag": "https://flagcdn.com/asm.svg",
     "regionalBlocs": [],
     "cioc": "ASA"
     },
@@ -460,7 +460,7 @@
     "hr": "Andora",
     "fa": "آندورا"
     },
-    "flag": "https://flagcdn.com/ve.svg/and.svg",
+    "flag": "https://flagcdn.com/and.svg",
     "regionalBlocs": [],
     "cioc": "AND"
     },
@@ -528,7 +528,7 @@
     "hr": "Angola",
     "fa": "آنگولا"
     },
-    "flag": "https://flagcdn.com/ve.svg/ago.svg",
+    "flag": "https://flagcdn.com/ago.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -602,7 +602,7 @@
     "hr": "Angvila",
     "fa": "آنگویلا"
     },
-    "flag": "https://flagcdn.com/ve.svg/aia.svg",
+    "flag": "https://flagcdn.com/aia.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -679,7 +679,7 @@
     "hr": "Antarktika",
     "fa": "جنوبگان"
     },
-    "flag": "https://flagcdn.com/ve.svg/ata.svg",
+    "flag": "https://flagcdn.com/ata.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -740,7 +740,7 @@
     "hr": "Antigva i Barbuda",
     "fa": "آنتیگوا و باربودا"
     },
-    "flag": "https://flagcdn.com/ve.svg/atg.svg",
+    "flag": "https://flagcdn.com/atg.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -826,7 +826,7 @@
     "hr": "Argentina",
     "fa": "آرژانتین"
     },
-    "flag": "https://flagcdn.com/ve.svg/arg.svg",
+    "flag": "https://flagcdn.com/ar.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -917,7 +917,7 @@
     "hr": "Armenija",
     "fa": "ارمنستان"
     },
-    "flag": "https://flagcdn.com/ve.svg/arm.svg",
+    "flag": "https://flagcdn.com/arm.svg",
     "regionalBlocs": [
     {
     "acronym": "EEU",
@@ -993,7 +993,7 @@
     "hr": "Aruba",
     "fa": "آروبا"
     },
-    "flag": "https://flagcdn.com/ve.svg/abw.svg",
+    "flag": "https://flagcdn.com/abw.svg",
     "regionalBlocs": [],
     "cioc": "ARU"
     },
@@ -1061,7 +1061,7 @@
     "hr": "Australija",
     "fa": "استرالیا"
     },
-    "flag": "https://flagcdn.com/ve.svg/aus.svg",
+    "flag": "https://flagcdn.com/aus.svg",
     "regionalBlocs": [],
     "cioc": "AUS"
     },
@@ -1134,7 +1134,7 @@
     "hr": "Austrija",
     "fa": "اتریش"
     },
-    "flag": "https://flagcdn.com/ve.svg/aut.svg",
+    "flag": "https://flagcdn.com/aut.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -1210,7 +1210,7 @@
     "hr": "Azerbajdžan",
     "fa": "آذربایجان"
     },
-    "flag": "https://flagcdn.com/ve.svg/aze.svg",
+    "flag": "https://flagcdn.com/aze.svg",
     "regionalBlocs": [],
     "cioc": "AZE"
     },
@@ -1272,7 +1272,7 @@
     "hr": "Bahami",
     "fa": "باهاما"
     },
-    "flag": "https://flagcdn.com/ve.svg/bhs.svg",
+    "flag": "https://flagcdn.com/bhs.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -1346,7 +1346,7 @@
     "hr": "Bahrein",
     "fa": "بحرین"
     },
-    "flag": "https://flagcdn.com/ve.svg/bhr.svg",
+    "flag": "https://flagcdn.com/bhr.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -1423,7 +1423,7 @@
     "hr": "Bangladeš",
     "fa": "بنگلادش"
     },
-    "flag": "https://flagcdn.com/ve.svg/bgd.svg",
+    "flag": "https://flagcdn.com/bgd.svg",
     "regionalBlocs": [
     {
     "acronym": "SAARC",
@@ -1491,7 +1491,7 @@
     "hr": "Barbados",
     "fa": "باربادوس"
     },
-    "flag": "https://flagcdn.com/ve.svg/brb.svg",
+    "flag": "https://flagcdn.com/brb.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -1586,7 +1586,7 @@
     "hr": "Bjelorusija",
     "fa": "بلاروس"
     },
-    "flag": "https://flagcdn.com/ve.svg/blr.svg",
+    "flag": "https://flagcdn.com/blr.svg",
     "regionalBlocs": [
     {
     "acronym": "EEU",
@@ -1681,7 +1681,7 @@
     "hr": "Belgija",
     "fa": "بلژیک"
     },
-    "flag": "https://flagcdn.com/ve.svg/bel.svg",
+    "flag": "https://flagcdn.com/bel.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -1758,7 +1758,7 @@
     "hr": "Belize",
     "fa": "بلیز"
     },
-    "flag": "https://flagcdn.com/ve.svg/blz.svg",
+    "flag": "https://flagcdn.com/blz.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -1847,7 +1847,7 @@
     "hr": "Benin",
     "fa": "بنین"
     },
-    "flag": "https://flagcdn.com/ve.svg/ben.svg",
+    "flag": "https://flagcdn.com/ben.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -1924,7 +1924,7 @@
     "hr": "Bermudi",
     "fa": "برمودا"
     },
-    "flag": "https://flagcdn.com/ve.svg/bmu.svg",
+    "flag": "https://flagcdn.com/bmu.svg",
     "regionalBlocs": [],
     "cioc": "BER"
     },
@@ -1994,7 +1994,7 @@
     "hr": "Butan",
     "fa": "بوتان"
     },
-    "flag": "https://flagcdn.com/ve.svg/btn.svg",
+    "flag": "https://flagcdn.com/btn.svg",
     "regionalBlocs": [
     {
     "acronym": "SAARC",
@@ -2087,7 +2087,7 @@
     "hr": "Bolivija",
     "fa": "بولیوی"
     },
-    "flag": "https://flagcdn.com/ve.svg/bol.svg",
+    "flag": "https://flagcdn.com/bol.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -2166,7 +2166,7 @@
     "hr": null,
     "fa": "بونیر"
     },
-    "flag": "https://flagcdn.com/ve.svg/bes.svg",
+    "flag": "https://flagcdn.com/bes.svg",
     "regionalBlocs": [],
     "cioc": null
     },
@@ -2245,7 +2245,7 @@
     "hr": "Bosna i Hercegovina",
     "fa": "بوسنی و هرزگوین"
     },
-    "flag": "https://flagcdn.com/ve.svg/bih.svg",
+    "flag": "https://flagcdn.com/bih.svg",
     "regionalBlocs": [
     {
     "acronym": "CEFTA",
@@ -2326,7 +2326,7 @@
     "hr": "Bocvana",
     "fa": "بوتسوانا"
     },
-    "flag": "https://flagcdn.com/ve.svg/bwa.svg",
+    "flag": "https://flagcdn.com/bwa.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -2414,7 +2414,7 @@
     "hr": "Otok Bouvet",
     "fa": "جزیره بووه"
     },
-    "flag": "https://flagcdn.com/ve.svg/bvt.svg",
+    "flag": "https://flagcdn.com/bvt.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -2492,7 +2492,7 @@
     "hr": "Brazil",
     "fa": "برزیل"
     },
-    "flag": "https://flagcdn.com/ve.svg/bra.svg",
+    "flag": "https://flagcdn.com/bra.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -2569,7 +2569,7 @@
     "hr": "Britanski Indijskooceanski teritorij",
     "fa": "قلمرو بریتانیا در اقیانوس هند"
     },
-    "flag": "https://flagcdn.com/ve.svg/iot.svg",
+    "flag": "https://flagcdn.com/iot.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -2642,7 +2642,7 @@
     "hr": "Mali udaljeni otoci SAD-a",
     "fa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا"
     },
-    "flag": "https://flagcdn.com/ve.svg/umi.svg",
+    "flag": "https://flagcdn.com/umi.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -2708,7 +2708,7 @@
     "hr": "Britanski Djevičanski Otoci",
     "fa": "جزایر ویرجین بریتانیا"
     },
-    "flag": "https://flagcdn.com/ve.svg/vgb.svg",
+    "flag": "https://flagcdn.com/vgb.svg",
     "regionalBlocs": [],
     "cioc": "IVB"
     },
@@ -2772,7 +2772,7 @@
     "hr": null,
     "fa": "جزایر ویرجین آمریکا"
     },
-    "flag": "https://flagcdn.com/ve.svg/vir.svg",
+    "flag": "https://flagcdn.com/vir.svg",
     "regionalBlocs": [],
     "cioc": "ISV"
     },
@@ -2842,7 +2842,7 @@
     "hr": "Brunej",
     "fa": "برونئی"
     },
-    "flag": "https://flagcdn.com/ve.svg/brn.svg",
+    "flag": "https://flagcdn.com/brn.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -2918,7 +2918,7 @@
     "hr": "Bugarska",
     "fa": "بلغارستان"
     },
-    "flag": "https://flagcdn.com/ve.svg/bgr.svg",
+    "flag": "https://flagcdn.com/bgr.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -2999,7 +2999,7 @@
     "hr": "Burkina Faso",
     "fa": "بورکینافاسو"
     },
-    "flag": "https://flagcdn.com/ve.svg/bfa.svg",
+    "flag": "https://flagcdn.com/bfa.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -3086,7 +3086,7 @@
     "hr": "Burundi",
     "fa": "بوروندی"
     },
-    "flag": "https://flagcdn.com/ve.svg/bdi.svg",
+    "flag": "https://flagcdn.com/bdi.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -3170,7 +3170,7 @@
     "hr": "Kambodža",
     "fa": "کامبوج"
     },
-    "flag": "https://flagcdn.com/ve.svg/khm.svg",
+    "flag": "https://flagcdn.com/khm.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -3253,7 +3253,7 @@
     "hr": "Kamerun",
     "fa": "کامرون"
     },
-    "flag": "https://flagcdn.com/ve.svg/cmr.svg",
+    "flag": "https://flagcdn.com/cmr.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -3340,7 +3340,7 @@
     "hr": "Kanada",
     "fa": "کانادا"
     },
-    "flag": "https://flagcdn.com/ve.svg/can.svg",
+    "flag": "https://flagcdn.com/can.svg",
     "regionalBlocs": [
     {
     "acronym": "NAFTA",
@@ -3413,7 +3413,7 @@
     "hr": "Zelenortska Republika",
     "fa": "کیپ ورد"
     },
-    "flag": "https://flagcdn.com/ve.svg/cpv.svg",
+    "flag": "https://flagcdn.com/cpv.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -3487,7 +3487,7 @@
     "hr": "Kajmanski otoci",
     "fa": "جزایر کیمن"
     },
-    "flag": "https://flagcdn.com/ve.svg/cym.svg",
+    "flag": "https://flagcdn.com/cym.svg",
     "regionalBlocs": [],
     "cioc": "CAY"
     },
@@ -3563,7 +3563,7 @@
     "hr": "Srednjoafrička Republika",
     "fa": "جمهوری آفریقای مرکزی"
     },
-    "flag": "https://flagcdn.com/ve.svg/caf.svg",
+    "flag": "https://flagcdn.com/caf.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -3653,7 +3653,7 @@
     "hr": "Čad",
     "fa": "چاد"
     },
-    "flag": "https://flagcdn.com/ve.svg/tcd.svg",
+    "flag": "https://flagcdn.com/tcd.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -3734,7 +3734,7 @@
     "hr": "Čile",
     "fa": "شیلی"
     },
-    "flag": "https://flagcdn.com/ve.svg/chl.svg",
+    "flag": "https://flagcdn.com/chl.svg",
     "regionalBlocs": [
     {
     "acronym": "PA",
@@ -3841,7 +3841,7 @@
     "hr": "Kina",
     "fa": "چین"
     },
-    "flag": "https://flagcdn.com/ve.svg/chn.svg",
+    "flag": "https://flagcdn.com/chn.svg",
     "regionalBlocs": [],
     "cioc": "CHN"
     },
@@ -3903,7 +3903,7 @@
     "hr": "Božićni otok",
     "fa": "جزیره کریسمس"
     },
-    "flag": "https://flagcdn.com/ve.svg/cxr.svg",
+    "flag": "https://flagcdn.com/cxr.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -3966,7 +3966,7 @@
     "hr": "Kokosovi Otoci",
     "fa": "جزایر کوکوس"
     },
-    "flag": "https://flagcdn.com/ve.svg/cck.svg",
+    "flag": "https://flagcdn.com/cck.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -4035,7 +4035,7 @@
     "hr": "Kolumbija",
     "fa": "کلمبیا"
     },
-    "flag": "https://flagcdn.com/ve.svg/col.svg",
+    "flag": "https://flagcdn.com/col.svg",
     "regionalBlocs": [
     {
     "acronym": "PA",
@@ -4130,7 +4130,7 @@
     "hr": "Komori",
     "fa": "کومور"
     },
-    "flag": "https://flagcdn.com/ve.svg/com.svg",
+    "flag": "https://flagcdn.com/com.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -4227,7 +4227,7 @@
     "hr": "Kongo",
     "fa": "کنگو"
     },
-    "flag": "https://flagcdn.com/ve.svg/cog.svg",
+    "flag": "https://flagcdn.com/cog.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -4339,7 +4339,7 @@
     "hr": "Kongo, Demokratska Republika",
     "fa": "جمهوری کنگو"
     },
-    "flag": "https://flagcdn.com/ve.svg/cod.svg",
+    "flag": "https://flagcdn.com/cod.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -4419,7 +4419,7 @@
     "hr": "Cookovo Otočje",
     "fa": "جزایر کوک"
     },
-    "flag": "https://flagcdn.com/ve.svg/cok.svg",
+    "flag": "https://flagcdn.com/cok.svg",
     "regionalBlocs": [],
     "cioc": "COK"
     },
@@ -4485,7 +4485,7 @@
     "hr": "Kostarika",
     "fa": "کاستاریکا"
     },
-    "flag": "https://flagcdn.com/ve.svg/cri.svg",
+    "flag": "https://flagcdn.com/cri.svg",
     "regionalBlocs": [
     {
     "acronym": "CAIS",
@@ -4566,7 +4566,7 @@
     "hr": "Hrvatska",
     "fa": "کرواسی"
     },
-    "flag": "https://flagcdn.com/ve.svg/hrv.svg",
+    "flag": "https://flagcdn.com/hrv.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -4641,7 +4641,7 @@
     "hr": "Kuba",
     "fa": "کوبا"
     },
-    "flag": "https://flagcdn.com/ve.svg/cub.svg",
+    "flag": "https://flagcdn.com/cub.svg",
     "regionalBlocs": [],
     "cioc": "CUB"
     },
@@ -4719,7 +4719,7 @@
     "hr": null,
     "fa": "کوراسائو"
     },
-    "flag": "https://flagcdn.com/ve.svg/cuw.svg",
+    "flag": "https://flagcdn.com/cuw.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -4799,7 +4799,7 @@
     "hr": "Cipar",
     "fa": "قبرس"
     },
-    "flag": "https://flagcdn.com/ve.svg/cyp.svg",
+    "flag": "https://flagcdn.com/cyp.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -4880,7 +4880,7 @@
     "hr": "Češka",
     "fa": "جمهوری چک"
     },
-    "flag": "https://flagcdn.com/ve.svg/cze.svg",
+    "flag": "https://flagcdn.com/cze.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -4957,7 +4957,7 @@
     "hr": "Danska",
     "fa": "دانمارک"
     },
-    "flag": "https://flagcdn.com/ve.svg/dnk.svg",
+    "flag": "https://flagcdn.com/dnk.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -5041,7 +5041,7 @@
     "hr": "Džibuti",
     "fa": "جیبوتی"
     },
-    "flag": "https://flagcdn.com/ve.svg/dji.svg",
+    "flag": "https://flagcdn.com/dji.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -5128,7 +5128,7 @@
     "hr": "Dominika",
     "fa": "دومینیکا"
     },
-    "flag": "https://flagcdn.com/ve.svg/dma.svg",
+    "flag": "https://flagcdn.com/dma.svg",
     "regionalBlocs": [],
     "cioc": "DMA"
     },
@@ -5193,7 +5193,7 @@
     "hr": "Dominikanska Republika",
     "fa": "جمهوری دومینیکن"
     },
-    "flag": "https://flagcdn.com/ve.svg/dom.svg",
+    "flag": "https://flagcdn.com/dom.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -5281,7 +5281,7 @@
     "hr": "Ekvador",
     "fa": "اکوادور"
     },
-    "flag": "https://flagcdn.com/ve.svg/ecu.svg",
+    "flag": "https://flagcdn.com/ecu.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -5363,7 +5363,7 @@
     "hr": "Egipat",
     "fa": "مصر"
     },
-    "flag": "https://flagcdn.com/ve.svg/egy.svg",
+    "flag": "https://flagcdn.com/egy.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -5452,7 +5452,7 @@
     "hr": "Salvador",
     "fa": "السالوادور"
     },
-    "flag": "https://flagcdn.com/ve.svg/slv.svg",
+    "flag": "https://flagcdn.com/slv.svg",
     "regionalBlocs": [
     {
     "acronym": "CAIS",
@@ -5537,7 +5537,7 @@
     "hr": "Ekvatorijalna Gvineja",
     "fa": "گینه استوایی"
     },
-    "flag": "https://flagcdn.com/ve.svg/gnq.svg",
+    "flag": "https://flagcdn.com/gnq.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -5633,7 +5633,7 @@
     "hr": "Eritreja",
     "fa": "اریتره"
     },
-    "flag": "https://flagcdn.com/ve.svg/eri.svg",
+    "flag": "https://flagcdn.com/eri.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -5713,7 +5713,7 @@
     "hr": "Estonija",
     "fa": "استونی"
     },
-    "flag": "https://flagcdn.com/ve.svg/est.svg",
+    "flag": "https://flagcdn.com/est.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -5791,7 +5791,7 @@
     "hr": "Etiopija",
     "fa": "اتیوپی"
     },
-    "flag": "https://flagcdn.com/ve.svg/eth.svg",
+    "flag": "https://flagcdn.com/eth.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -5866,7 +5866,7 @@
     "hr": "Falklandski Otoci",
     "fa": "جزایر فالکلند"
     },
-    "flag": "https://flagcdn.com/ve.svg/flk.svg",
+    "flag": "https://flagcdn.com/flk.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -5950,7 +5950,7 @@
     "hr": "Farski Otoci",
     "fa": "جزایر فارو"
     },
-    "flag": "https://flagcdn.com/ve.svg/fro.svg",
+    "flag": "https://flagcdn.com/fro.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -6040,7 +6040,7 @@
     "hr": "Fiđi",
     "fa": "فیجی"
     },
-    "flag": "https://flagcdn.com/ve.svg/fji.svg",
+    "flag": "https://flagcdn.com/fji.svg",
     "regionalBlocs": [],
     "cioc": "FIJ"
     },
@@ -6115,7 +6115,7 @@
     "hr": "Finska",
     "fa": "فنلاند"
     },
-    "flag": "https://flagcdn.com/ve.svg/fin.svg",
+    "flag": "https://flagcdn.com/fin.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -6205,7 +6205,7 @@
     "hr": "Francuska",
     "fa": "فرانسه"
     },
-    "flag": "https://flagcdn.com/ve.svg/fra.svg",
+    "flag": "https://flagcdn.com/fra.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -6278,7 +6278,7 @@
     "hr": "Francuska Gvajana",
     "fa": "گویان فرانسه"
     },
-    "flag": "https://flagcdn.com/ve.svg/guf.svg",
+    "flag": "https://flagcdn.com/guf.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -6366,7 +6366,7 @@
     "hr": "Francuska Polinezija",
     "fa": "پلی‌نزی فرانسه"
     },
-    "flag": "https://flagcdn.com/ve.svg/pyf.svg",
+    "flag": "https://flagcdn.com/pyf.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -6427,7 +6427,7 @@
     "hr": "Francuski južni i antarktički teritoriji",
     "fa": "سرزمین‌های جنوبی و جنوبگانی فرانسه"
     },
-    "flag": "https://flagcdn.com/ve.svg/atf.svg",
+    "flag": "https://flagcdn.com/atf.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -6507,7 +6507,7 @@
     "hr": "Gabon",
     "fa": "گابن"
     },
-    "flag": "https://flagcdn.com/ve.svg/gab.svg",
+    "flag": "https://flagcdn.com/gab.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -6584,7 +6584,7 @@
     "hr": "Gambija",
     "fa": "گامبیا"
     },
-    "flag": "https://flagcdn.com/ve.svg/gmb.svg",
+    "flag": "https://flagcdn.com/gmb.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -6664,7 +6664,7 @@
     "hr": "Gruzija",
     "fa": "گرجستان"
     },
-    "flag": "https://flagcdn.com/ve.svg/geo.svg",
+    "flag": "https://flagcdn.com/geo.svg",
     "regionalBlocs": [],
     "cioc": "GEO"
     },
@@ -6737,7 +6737,7 @@
     "hr": "Njemačka",
     "fa": "آلمان"
     },
-    "flag": "https://flagcdn.com/ve.svg/deu.svg",
+    "flag": "https://flagcdn.com/deu.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -6809,7 +6809,7 @@
     "hr": "Gana",
     "fa": "غنا"
     },
-    "flag": "https://flagcdn.com/ve.svg/gha.svg",
+    "flag": "https://flagcdn.com/gha.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -6885,7 +6885,7 @@
     "hr": "Gibraltar",
     "fa": "جبل‌طارق"
     },
-    "flag": "https://flagcdn.com/ve.svg/gib.svg",
+    "flag": "https://flagcdn.com/gib.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -6961,7 +6961,7 @@
     "hr": "Grčka",
     "fa": "یونان"
     },
-    "flag": "https://flagcdn.com/ve.svg/grc.svg",
+    "flag": "https://flagcdn.com/grc.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -7033,7 +7033,7 @@
     "hr": "Grenland",
     "fa": "گرینلند"
     },
-    "flag": "https://flagcdn.com/ve.svg/grl.svg",
+    "flag": "https://flagcdn.com/grl.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -7094,7 +7094,7 @@
     "hr": "Grenada",
     "fa": "گرنادا"
     },
-    "flag": "https://flagcdn.com/ve.svg/grd.svg",
+    "flag": "https://flagcdn.com/grd.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -7167,7 +7167,7 @@
     "hr": "Gvadalupa",
     "fa": "جزیره گوادلوپ"
     },
-    "flag": "https://flagcdn.com/ve.svg/glp.svg",
+    "flag": "https://flagcdn.com/glp.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -7241,7 +7241,7 @@
     "hr": "Guam",
     "fa": "گوام"
     },
-    "flag": "https://flagcdn.com/ve.svg/gum.svg",
+    "flag": "https://flagcdn.com/gum.svg",
     "regionalBlocs": [],
     "cioc": "GUM"
     },
@@ -7307,7 +7307,7 @@
     "hr": "Gvatemala",
     "fa": "گواتمالا"
     },
-    "flag": "https://flagcdn.com/ve.svg/gtm.svg",
+    "flag": "https://flagcdn.com/gtm.svg",
     "regionalBlocs": [
     {
     "acronym": "CAIS",
@@ -7392,7 +7392,7 @@
     "hr": "Guernsey",
     "fa": "گرنزی"
     },
-    "flag": "https://flagcdn.com/ve.svg/ggy.svg",
+    "flag": "https://flagcdn.com/ggy.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -7468,7 +7468,7 @@
     "hr": "Gvineja",
     "fa": "گینه"
     },
-    "flag": "https://flagcdn.com/ve.svg/gin.svg",
+    "flag": "https://flagcdn.com/gin.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -7547,7 +7547,7 @@
     "hr": "Gvineja Bisau",
     "fa": "گینه بیسائو"
     },
-    "flag": "https://flagcdn.com/ve.svg/gnb.svg",
+    "flag": "https://flagcdn.com/gnb.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -7626,7 +7626,7 @@
     "hr": "Gvajana",
     "fa": "گویان"
     },
-    "flag": "https://flagcdn.com/ve.svg/guy.svg",
+    "flag": "https://flagcdn.com/guy.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -7724,7 +7724,7 @@
     "hr": "Haiti",
     "fa": "هائیتی"
     },
-    "flag": "https://flagcdn.com/ve.svg/hti.svg",
+    "flag": "https://flagcdn.com/hti.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -7797,7 +7797,7 @@
     "hr": "Otok Heard i otočje McDonald",
     "fa": "جزیره هرد و جزایر مک‌دونالد"
     },
-    "flag": "https://flagcdn.com/ve.svg/hmd.svg",
+    "flag": "https://flagcdn.com/hmd.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -7880,7 +7880,7 @@
     "hr": "Sveta Stolica",
     "fa": "سریر مقدس"
     },
-    "flag": "https://flagcdn.com/ve.svg/vat.svg",
+    "flag": "https://flagcdn.com/vat.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -7947,7 +7947,7 @@
     "hr": "Honduras",
     "fa": "هندوراس"
     },
-    "flag": "https://flagcdn.com/ve.svg/hnd.svg",
+    "flag": "https://flagcdn.com/hnd.svg",
     "regionalBlocs": [
     {
     "acronym": "CAIS",
@@ -8028,7 +8028,7 @@
     "hr": "Hong Kong",
     "fa": "هنگ‌کنگ"
     },
-    "flag": "https://flagcdn.com/ve.svg/hkg.svg",
+    "flag": "https://flagcdn.com/hkg.svg",
     "regionalBlocs": [],
     "cioc": "HKG"
     },
@@ -8097,7 +8097,7 @@
     "hr": "Mađarska",
     "fa": "مجارستان"
     },
-    "flag": "https://flagcdn.com/ve.svg/hun.svg",
+    "flag": "https://flagcdn.com/hun.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -8168,7 +8168,7 @@
     "hr": "Island",
     "fa": "ایسلند"
     },
-    "flag": "https://flagcdn.com/ve.svg/isl.svg",
+    "flag": "https://flagcdn.com/isl.svg",
     "regionalBlocs": [
     {
     "acronym": "EFTA",
@@ -8254,7 +8254,7 @@
     "hr": "Indija",
     "fa": "هند"
     },
-    "flag": "https://flagcdn.com/ve.svg/ind.svg",
+    "flag": "https://flagcdn.com/ind.svg",
     "regionalBlocs": [
     {
     "acronym": "SAARC",
@@ -8330,7 +8330,7 @@
     "hr": "Indonezija",
     "fa": "اندونزی"
     },
-    "flag": "https://flagcdn.com/ve.svg/idn.svg",
+    "flag": "https://flagcdn.com/idn.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -8407,7 +8407,7 @@
     "hr": "Obala Bjelokosti",
     "fa": "ساحل عاج"
     },
-    "flag": "https://flagcdn.com/ve.svg/civ.svg",
+    "flag": "https://flagcdn.com/civ.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -8491,7 +8491,7 @@
     "hr": "Iran",
     "fa": "ایران"
     },
-    "flag": "https://flagcdn.com/ve.svg/irn.svg",
+    "flag": "https://flagcdn.com/irn.svg",
     "regionalBlocs": [],
     "cioc": "IRI"
     },
@@ -8567,7 +8567,7 @@
     "hr": "Irak",
     "fa": "عراق"
     },
-    "flag": "https://flagcdn.com/ve.svg/irq.svg",
+    "flag": "https://flagcdn.com/irq.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -8650,7 +8650,7 @@
     "hr": "Irska",
     "fa": "ایرلند"
     },
-    "flag": "https://flagcdn.com/ve.svg/irl.svg",
+    "flag": "https://flagcdn.com/irl.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -8732,7 +8732,7 @@
     "hr": "Otok Man",
     "fa": "جزیره من"
     },
-    "flag": "https://flagcdn.com/ve.svg/imn.svg",
+    "flag": "https://flagcdn.com/imn.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -8813,7 +8813,7 @@
     "hr": "Izrael",
     "fa": "اسرائیل"
     },
-    "flag": "https://flagcdn.com/ve.svg/isr.svg",
+    "flag": "https://flagcdn.com/isr.svg",
     "regionalBlocs": [],
     "cioc": "ISR"
     },
@@ -8883,7 +8883,7 @@
     "hr": "Italija",
     "fa": "ایتالیا"
     },
-    "flag": "https://flagcdn.com/ve.svg/ita.svg",
+    "flag": "https://flagcdn.com/ita.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -8951,7 +8951,7 @@
     "hr": "Jamajka",
     "fa": "جامائیکا"
     },
-    "flag": "https://flagcdn.com/ve.svg/jam.svg",
+    "flag": "https://flagcdn.com/jam.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -9025,7 +9025,7 @@
     "hr": "Japan",
     "fa": "ژاپن"
     },
-    "flag": "https://flagcdn.com/ve.svg/jpn.svg",
+    "flag": "https://flagcdn.com/jpn.svg",
     "regionalBlocs": [],
     "cioc": "JPN"
     },
@@ -9100,7 +9100,7 @@
     "hr": "Jersey",
     "fa": "جرزی"
     },
-    "flag": "https://flagcdn.com/ve.svg/jey.svg",
+    "flag": "https://flagcdn.com/jey.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -9168,7 +9168,7 @@
     "hr": "Jordan",
     "fa": "اردن"
     },
-    "flag": "https://flagcdn.com/ve.svg/jor.svg",
+    "flag": "https://flagcdn.com/jor.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -9262,7 +9262,7 @@
     "hr": "Kazahstan",
     "fa": "قزاقستان"
     },
-    "flag": "https://flagcdn.com/ve.svg/kaz.svg",
+    "flag": "https://flagcdn.com/kaz.svg",
     "regionalBlocs": [
     {
     "acronym": "EEU",
@@ -9346,7 +9346,7 @@
     "hr": "Kenija",
     "fa": "کنیا"
     },
-    "flag": "https://flagcdn.com/ve.svg/ken.svg",
+    "flag": "https://flagcdn.com/ken.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -9429,7 +9429,7 @@
     "hr": "Kiribati",
     "fa": "کیریباتی"
     },
-    "flag": "https://flagcdn.com/ve.svg/kir.svg",
+    "flag": "https://flagcdn.com/kir.svg",
     "regionalBlocs": [],
     "cioc": "KIR"
     },
@@ -9495,7 +9495,7 @@
     "hr": "Kuvajt",
     "fa": "کویت"
     },
-    "flag": "https://flagcdn.com/ve.svg/kwt.svg",
+    "flag": "https://flagcdn.com/kwt.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -9582,7 +9582,7 @@
     "hr": "Kirgistan",
     "fa": "قرقیزستان"
     },
-    "flag": "https://flagcdn.com/ve.svg/kgz.svg",
+    "flag": "https://flagcdn.com/kgz.svg",
     "regionalBlocs": [
     {
     "acronym": "EEU",
@@ -9662,7 +9662,7 @@
     "hr": "Laos",
     "fa": "لائوس"
     },
-    "flag": "https://flagcdn.com/ve.svg/lao.svg",
+    "flag": "https://flagcdn.com/lao.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -9737,7 +9737,7 @@
     "hr": "Latvija",
     "fa": "لتونی"
     },
-    "flag": "https://flagcdn.com/ve.svg/lva.svg",
+    "flag": "https://flagcdn.com/lva.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -9816,7 +9816,7 @@
     "hr": "Libanon",
     "fa": "لبنان"
     },
-    "flag": "https://flagcdn.com/ve.svg/lbn.svg",
+    "flag": "https://flagcdn.com/lbn.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -9903,7 +9903,7 @@
     "hr": "Lesoto",
     "fa": "لسوتو"
     },
-    "flag": "https://flagcdn.com/ve.svg/lso.svg",
+    "flag": "https://flagcdn.com/lso.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -9982,7 +9982,7 @@
     "hr": "Liberija",
     "fa": "لیبریا"
     },
-    "flag": "https://flagcdn.com/ve.svg/lbr.svg",
+    "flag": "https://flagcdn.com/lbr.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -10065,7 +10065,7 @@
     "hr": "Libija",
     "fa": "لیبی"
     },
-    "flag": "https://flagcdn.com/ve.svg/lby.svg",
+    "flag": "https://flagcdn.com/lby.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -10154,7 +10154,7 @@
     "hr": "Lihtenštajn",
     "fa": "لیختن‌اشتاین"
     },
-    "flag": "https://flagcdn.com/ve.svg/lie.svg",
+    "flag": "https://flagcdn.com/lie.svg",
     "regionalBlocs": [
     {
     "acronym": "EFTA",
@@ -10229,7 +10229,7 @@
     "hr": "Litva",
     "fa": "لیتوانی"
     },
-    "flag": "https://flagcdn.com/ve.svg/ltu.svg",
+    "flag": "https://flagcdn.com/ltu.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -10317,7 +10317,7 @@
     "hr": "Luksemburg",
     "fa": "لوکزامبورگ"
     },
-    "flag": "https://flagcdn.com/ve.svg/lux.svg",
+    "flag": "https://flagcdn.com/lux.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -10397,7 +10397,7 @@
     "hr": "Makao",
     "fa": "مکائو"
     },
-    "flag": "https://flagcdn.com/ve.svg/mac.svg",
+    "flag": "https://flagcdn.com/mac.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -10466,7 +10466,7 @@
     "hr": "Makedonija",
     "fa": ""
     },
-    "flag": "https://flagcdn.com/ve.svg/mkd.svg",
+    "flag": "https://flagcdn.com/mkd.svg",
     "regionalBlocs": [
     {
     "acronym": "CEFTA",
@@ -10543,7 +10543,7 @@
     "hr": "Madagaskar",
     "fa": "ماداگاسکار"
     },
-    "flag": "https://flagcdn.com/ve.svg/mdg.svg",
+    "flag": "https://flagcdn.com/mdg.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -10628,7 +10628,7 @@
     "hr": "Malavi",
     "fa": "مالاوی"
     },
-    "flag": "https://flagcdn.com/ve.svg/mwi.svg",
+    "flag": "https://flagcdn.com/mwi.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -10706,7 +10706,7 @@
     "hr": "Malezija",
     "fa": "مالزی"
     },
-    "flag": "https://flagcdn.com/ve.svg/mys.svg",
+    "flag": "https://flagcdn.com/mys.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -10777,7 +10777,7 @@
     "hr": "Maldivi",
     "fa": "مالدیو"
     },
-    "flag": "https://flagcdn.com/ve.svg/mdv.svg",
+    "flag": "https://flagcdn.com/mdv.svg",
     "regionalBlocs": [
     {
     "acronym": "SAARC",
@@ -10855,7 +10855,7 @@
     "hr": "Mali",
     "fa": "مالی"
     },
-    "flag": "https://flagcdn.com/ve.svg/mli.svg",
+    "flag": "https://flagcdn.com/mli.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -10937,7 +10937,7 @@
     "hr": "Malta",
     "fa": "مالت"
     },
-    "flag": "https://flagcdn.com/ve.svg/mlt.svg",
+    "flag": "https://flagcdn.com/mlt.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -11013,7 +11013,7 @@
     "hr": "Maršalovi Otoci",
     "fa": "جزایر مارشال"
     },
-    "flag": "https://flagcdn.com/ve.svg/mhl.svg",
+    "flag": "https://flagcdn.com/mhl.svg",
     "regionalBlocs": [],
     "cioc": "MHL"
     },
@@ -11074,7 +11074,7 @@
     "hr": "Martinique",
     "fa": "مونتسرات"
     },
-    "flag": "https://flagcdn.com/ve.svg/mtq.svg",
+    "flag": "https://flagcdn.com/mtq.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -11142,7 +11142,7 @@
     "hr": "Mauritanija",
     "fa": "موریتانی"
     },
-    "flag": "https://flagcdn.com/ve.svg/mrt.svg",
+    "flag": "https://flagcdn.com/mrt.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -11228,7 +11228,7 @@
     "hr": "Mauricijus",
     "fa": "موریس"
     },
-    "flag": "https://flagcdn.com/ve.svg/mus.svg",
+    "flag": "https://flagcdn.com/mus.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -11304,7 +11304,7 @@
     "hr": "Mayotte",
     "fa": "مایوت"
     },
-    "flag": "https://flagcdn.com/ve.svg/myt.svg",
+    "flag": "https://flagcdn.com/myt.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -11387,7 +11387,7 @@
     "hr": "Meksiko",
     "fa": "مکزیک"
     },
-    "flag": "https://flagcdn.com/ve.svg/mex.svg",
+    "flag": "https://flagcdn.com/mex.svg",
     "regionalBlocs": [
     {
     "acronym": "PA",
@@ -11473,7 +11473,7 @@
     "hr": "Mikronezija",
     "fa": "ایالات فدرال میکرونزی"
     },
-    "flag": "https://flagcdn.com/ve.svg/fsm.svg",
+    "flag": "https://flagcdn.com/fsm.svg",
     "regionalBlocs": [],
     "cioc": "FSM"
     },
@@ -11539,7 +11539,7 @@
     "hr": "Moldova",
     "fa": "مولداوی"
     },
-    "flag": "https://flagcdn.com/ve.svg/mda.svg",
+    "flag": "https://flagcdn.com/mda.svg",
     "regionalBlocs": [
     {
     "acronym": "CEFTA",
@@ -11611,7 +11611,7 @@
     "hr": "Monako",
     "fa": "موناکو"
     },
-    "flag": "https://flagcdn.com/ve.svg/mco.svg",
+    "flag": "https://flagcdn.com/mco.svg",
     "regionalBlocs": [],
     "cioc": "MON"
     },
@@ -11676,7 +11676,7 @@
     "hr": "Mongolija",
     "fa": "مغولستان"
     },
-    "flag": "https://flagcdn.com/ve.svg/mng.svg",
+    "flag": "https://flagcdn.com/mng.svg",
     "regionalBlocs": [],
     "cioc": "MGL"
     },
@@ -11762,7 +11762,7 @@
     "hr": "Crna Gora",
     "fa": "مونته‌نگرو"
     },
-    "flag": "https://flagcdn.com/ve.svg/mne.svg",
+    "flag": "https://flagcdn.com/mne.svg",
     "regionalBlocs": [
     {
     "acronym": "CEFTA",
@@ -11830,7 +11830,7 @@
     "hr": "Montserrat",
     "fa": "مایوت"
     },
-    "flag": "https://flagcdn.com/ve.svg/msr.svg",
+    "flag": "https://flagcdn.com/msr.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -11908,7 +11908,7 @@
     "hr": "Maroko",
     "fa": "مراکش"
     },
-    "flag": "https://flagcdn.com/ve.svg/mar.svg",
+    "flag": "https://flagcdn.com/mar.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -12001,7 +12001,7 @@
     "hr": "Mozambik",
     "fa": "موزامبیک"
     },
-    "flag": "https://flagcdn.com/ve.svg/moz.svg",
+    "flag": "https://flagcdn.com/moz.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -12084,7 +12084,7 @@
     "hr": "Mijanmar",
     "fa": "میانمار"
     },
-    "flag": "https://flagcdn.com/ve.svg/mmr.svg",
+    "flag": "https://flagcdn.com/mmr.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -12170,7 +12170,7 @@
     "hr": "Namibija",
     "fa": "نامیبیا"
     },
-    "flag": "https://flagcdn.com/ve.svg/nam.svg",
+    "flag": "https://flagcdn.com/nam.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -12259,7 +12259,7 @@
     "hr": "Nauru",
     "fa": "نائورو"
     },
-    "flag": "https://flagcdn.com/ve.svg/nru.svg",
+    "flag": "https://flagcdn.com/nru.svg",
     "regionalBlocs": [],
     "cioc": "NRU"
     },
@@ -12325,7 +12325,7 @@
     "hr": "Nepal",
     "fa": "نپال"
     },
-    "flag": "https://flagcdn.com/ve.svg/npl.svg",
+    "flag": "https://flagcdn.com/npl.svg",
     "regionalBlocs": [
     {
     "acronym": "SAARC",
@@ -12399,7 +12399,7 @@
     "hr": "Nizozemska",
     "fa": "پادشاهی هلند"
     },
-    "flag": "https://flagcdn.com/ve.svg/nld.svg",
+    "flag": "https://flagcdn.com/nld.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -12467,7 +12467,7 @@
     "hr": "Nova Kaledonija",
     "fa": "کالدونیای جدید"
     },
-    "flag": "https://flagcdn.com/ve.svg/ncl.svg",
+    "flag": "https://flagcdn.com/ncl.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -12539,7 +12539,7 @@
     "hr": "Novi Zeland",
     "fa": "نیوزیلند"
     },
-    "flag": "https://flagcdn.com/ve.svg/nzl.svg",
+    "flag": "https://flagcdn.com/nzl.svg",
     "regionalBlocs": [],
     "cioc": "NZL"
     },
@@ -12605,7 +12605,7 @@
     "hr": "Nikaragva",
     "fa": "نیکاراگوئه"
     },
-    "flag": "https://flagcdn.com/ve.svg/nic.svg",
+    "flag": "https://flagcdn.com/nic.svg",
     "regionalBlocs": [
     {
     "acronym": "CAIS",
@@ -12688,7 +12688,7 @@
     "hr": "Niger",
     "fa": "نیجر"
     },
-    "flag": "https://flagcdn.com/ve.svg/ner.svg",
+    "flag": "https://flagcdn.com/ner.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -12770,7 +12770,7 @@
     "hr": "Nigerija",
     "fa": "نیجریه"
     },
-    "flag": "https://flagcdn.com/ve.svg/nga.svg",
+    "flag": "https://flagcdn.com/nga.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -12849,7 +12849,7 @@
     "hr": "Niue",
     "fa": "نیووی"
     },
-    "flag": "https://flagcdn.com/ve.svg/niu.svg",
+    "flag": "https://flagcdn.com/niu.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -12912,7 +12912,7 @@
     "hr": "Otok Norfolk",
     "fa": "جزیره نورفک"
     },
-    "flag": "https://flagcdn.com/ve.svg/nfk.svg",
+    "flag": "https://flagcdn.com/nfk.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -12980,7 +12980,7 @@
     "hr": "Sjeverna Koreja",
     "fa": "کره جنوبی"
     },
-    "flag": "https://flagcdn.com/ve.svg/prk.svg",
+    "flag": "https://flagcdn.com/prk.svg",
     "regionalBlocs": [],
     "cioc": "PRK"
     },
@@ -13049,7 +13049,7 @@
     "hr": "Sjevernomarijanski otoci",
     "fa": "جزایر ماریانای شمالی"
     },
-    "flag": "https://flagcdn.com/ve.svg/mnp.svg",
+    "flag": "https://flagcdn.com/mnp.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -13131,7 +13131,7 @@
     "hr": "Norveška",
     "fa": "نروژ"
     },
-    "flag": "https://flagcdn.com/ve.svg/nor.svg",
+    "flag": "https://flagcdn.com/nor.svg",
     "regionalBlocs": [
     {
     "acronym": "EFTA",
@@ -13205,7 +13205,7 @@
     "hr": "Oman",
     "fa": "عمان"
     },
-    "flag": "https://flagcdn.com/ve.svg/omn.svg",
+    "flag": "https://flagcdn.com/omn.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -13291,7 +13291,7 @@
     "hr": "Pakistan",
     "fa": "پاکستان"
     },
-    "flag": "https://flagcdn.com/ve.svg/pak.svg",
+    "flag": "https://flagcdn.com/pak.svg",
     "regionalBlocs": [
     {
     "acronym": "SAARC",
@@ -13366,7 +13366,7 @@
     "hr": "Palau",
     "fa": "پالائو"
     },
-    "flag": "https://flagcdn.com/ve.svg/plw.svg",
+    "flag": "https://flagcdn.com/plw.svg",
     "regionalBlocs": [],
     "cioc": "PLW"
     },
@@ -13433,7 +13433,7 @@
     "hr": "Palestina",
     "fa": "فلسطین"
     },
-    "flag": "https://flagcdn.com/ve.svg/pse.svg",
+    "flag": "https://flagcdn.com/pse.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -13515,7 +13515,7 @@
     "hr": "Panama",
     "fa": "پاناما"
     },
-    "flag": "https://flagcdn.com/ve.svg/pan.svg",
+    "flag": "https://flagcdn.com/pan.svg",
     "regionalBlocs": [
     {
     "acronym": "CAIS",
@@ -13591,7 +13591,7 @@
     "hr": "Papua Nova Gvineja",
     "fa": "پاپوآ گینه نو"
     },
-    "flag": "https://flagcdn.com/ve.svg/png.svg",
+    "flag": "https://flagcdn.com/png.svg",
     "regionalBlocs": [],
     "cioc": "PNG"
     },
@@ -13665,7 +13665,7 @@
     "hr": "Paragvaj",
     "fa": "پاراگوئه"
     },
-    "flag": "https://flagcdn.com/ve.svg/pry.svg",
+    "flag": "https://flagcdn.com/pry.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -13750,7 +13750,7 @@
     "hr": "Peru",
     "fa": "پرو"
     },
-    "flag": "https://flagcdn.com/ve.svg/per.svg",
+    "flag": "https://flagcdn.com/per.svg",
     "regionalBlocs": [
     {
     "acronym": "PA",
@@ -13837,7 +13837,7 @@
     "hr": "Filipini",
     "fa": "جزایر الندفیلیپین"
     },
-    "flag": "https://flagcdn.com/ve.svg/phl.svg",
+    "flag": "https://flagcdn.com/phl.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -13911,7 +13911,7 @@
     "hr": "Pitcairnovo otočje",
     "fa": "پیتکرن"
     },
-    "flag": "https://flagcdn.com/ve.svg/pcn.svg",
+    "flag": "https://flagcdn.com/pcn.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -13982,7 +13982,7 @@
     "hr": "Poljska",
     "fa": "لهستان"
     },
-    "flag": "https://flagcdn.com/ve.svg/pol.svg",
+    "flag": "https://flagcdn.com/pol.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -14056,7 +14056,7 @@
     "hr": "Portugal",
     "fa": "پرتغال"
     },
-    "flag": "https://flagcdn.com/ve.svg/prt.svg",
+    "flag": "https://flagcdn.com/prt.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -14133,7 +14133,7 @@
     "hr": "Portoriko",
     "fa": "پورتو ریکو"
     },
-    "flag": "https://flagcdn.com/ve.svg/pri.svg",
+    "flag": "https://flagcdn.com/pri.svg",
     "regionalBlocs": [],
     "cioc": "PUR"
     },
@@ -14198,7 +14198,7 @@
     "hr": "Katar",
     "fa": "قطر"
     },
-    "flag": "https://flagcdn.com/ve.svg/qat.svg",
+    "flag": "https://flagcdn.com/qat.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -14282,7 +14282,7 @@
     "hr": "Kosovo",
     "fa": "کوزوو"
     },
-    "flag": "https://flagcdn.com/ve.svg/kos.svg",
+    "flag": "https://flagcdn.com/kos.svg",
     "regionalBlocs": [
     {
     "acronym": "CEFTA",
@@ -14351,7 +14351,7 @@
     "hr": "Réunion",
     "fa": "رئونیون"
     },
-    "flag": "https://flagcdn.com/ve.svg/reu.svg",
+    "flag": "https://flagcdn.com/reu.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -14434,7 +14434,7 @@
     "hr": "Rumunjska",
     "fa": "رومانی"
     },
-    "flag": "https://flagcdn.com/ve.svg/rou.svg",
+    "flag": "https://flagcdn.com/rou.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -14529,7 +14529,7 @@
     "hr": "Rusija",
     "fa": "روسیه"
     },
-    "flag": "https://flagcdn.com/ve.svg/rus.svg",
+    "flag": "https://flagcdn.com/rus.svg",
     "regionalBlocs": [
     {
     "acronym": "EEU",
@@ -14619,7 +14619,7 @@
     "hr": "Ruanda",
     "fa": "رواندا"
     },
-    "flag": "https://flagcdn.com/ve.svg/rwa.svg",
+    "flag": "https://flagcdn.com/rwa.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -14696,7 +14696,7 @@
     "hr": "Saint Barthélemy",
     "fa": "سن-بارتلمی"
     },
-    "flag": "https://flagcdn.com/ve.svg/blm.svg",
+    "flag": "https://flagcdn.com/blm.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -14757,7 +14757,7 @@
     "hr": "Sveta Helena",
     "fa": "سنت هلنا، اسنشن و تریستان دا کونا"
     },
-    "flag": "https://flagcdn.com/ve.svg/shn.svg",
+    "flag": "https://flagcdn.com/shn.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -14832,7 +14832,7 @@
     "hr": "Sveti Kristof i Nevis",
     "fa": "سنت کیتس و نویس"
     },
-    "flag": "https://flagcdn.com/ve.svg/kna.svg",
+    "flag": "https://flagcdn.com/kna.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -14904,7 +14904,7 @@
     "hr": "Sveta Lucija",
     "fa": "سنت لوسیا"
     },
-    "flag": "https://flagcdn.com/ve.svg/lca.svg",
+    "flag": "https://flagcdn.com/lca.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -14995,7 +14995,7 @@
     "hr": "Sveti Martin",
     "fa": "سینت مارتن"
     },
-    "flag": "https://flagcdn.com/ve.svg/maf.svg",
+    "flag": "https://flagcdn.com/maf.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -15057,7 +15057,7 @@
     "hr": "Sveti Petar i Mikelon",
     "fa": "سن پیر و میکلن"
     },
-    "flag": "https://flagcdn.com/ve.svg/spm.svg",
+    "flag": "https://flagcdn.com/spm.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -15118,7 +15118,7 @@
     "hr": "Sveti Vincent i Grenadini",
     "fa": "سنت وینسنت و گرنادین‌ها"
     },
-    "flag": "https://flagcdn.com/ve.svg/vct.svg",
+    "flag": "https://flagcdn.com/vct.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -15198,7 +15198,7 @@
     "hr": "Samoa",
     "fa": "ساموآ"
     },
-    "flag": "https://flagcdn.com/ve.svg/wsm.svg",
+    "flag": "https://flagcdn.com/wsm.svg",
     "regionalBlocs": [],
     "cioc": "SAM"
     },
@@ -15263,7 +15263,7 @@
     "hr": "San Marino",
     "fa": "سان مارینو"
     },
-    "flag": "https://flagcdn.com/ve.svg/smr.svg",
+    "flag": "https://flagcdn.com/smr.svg",
     "regionalBlocs": [],
     "cioc": "SMR"
     },
@@ -15326,7 +15326,7 @@
     "hr": "Sveti Toma i Princip",
     "fa": "کواترو دو فرویرو"
     },
-    "flag": "https://flagcdn.com/ve.svg/stp.svg",
+    "flag": "https://flagcdn.com/stp.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -15410,7 +15410,7 @@
     "hr": "Saudijska Arabija",
     "fa": "عربستان سعودی"
     },
-    "flag": "https://flagcdn.com/ve.svg/sau.svg",
+    "flag": "https://flagcdn.com/sau.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -15490,7 +15490,7 @@
     "hr": "Senegal",
     "fa": "سنگال"
     },
-    "flag": "https://flagcdn.com/ve.svg/sen.svg",
+    "flag": "https://flagcdn.com/sen.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -15577,7 +15577,7 @@
     "hr": "Srbija",
     "fa": "صربستان"
     },
-    "flag": "https://flagcdn.com/ve.svg/srb.svg",
+    "flag": "https://flagcdn.com/srb.svg",
     "regionalBlocs": [
     {
     "acronym": "CEFTA",
@@ -15654,7 +15654,7 @@
     "hr": "Sejšeli",
     "fa": "سیشل"
     },
-    "flag": "https://flagcdn.com/ve.svg/syc.svg",
+    "flag": "https://flagcdn.com/syc.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -15732,7 +15732,7 @@
     "hr": "Sijera Leone",
     "fa": "سیرالئون"
     },
-    "flag": "https://flagcdn.com/ve.svg/sle.svg",
+    "flag": "https://flagcdn.com/sle.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -15832,7 +15832,7 @@
     "hr": "Singapur",
     "fa": "سنگاپور"
     },
-    "flag": "https://flagcdn.com/ve.svg/sgp.svg",
+    "flag": "https://flagcdn.com/sgp.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -15908,7 +15908,7 @@
     "hr": null,
     "fa": "سینت مارتن"
     },
-    "flag": "https://flagcdn.com/ve.svg/sxm.svg",
+    "flag": "https://flagcdn.com/sxm.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -15977,7 +15977,7 @@
     "hr": "Slovačka",
     "fa": "اسلواکی"
     },
-    "flag": "https://flagcdn.com/ve.svg/svk.svg",
+    "flag": "https://flagcdn.com/svk.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -16052,7 +16052,7 @@
     "hr": "Slovenija",
     "fa": "اسلوونی"
     },
-    "flag": "https://flagcdn.com/ve.svg/svn.svg",
+    "flag": "https://flagcdn.com/svn.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -16120,7 +16120,7 @@
     "hr": "Solomonski Otoci",
     "fa": "جزایر سلیمان"
     },
-    "flag": "https://flagcdn.com/ve.svg/slb.svg",
+    "flag": "https://flagcdn.com/slb.svg",
     "regionalBlocs": [],
     "cioc": "SOL"
     },
@@ -16195,7 +16195,7 @@
     "hr": "Somalija",
     "fa": "سومالی"
     },
-    "flag": "https://flagcdn.com/ve.svg/som.svg",
+    "flag": "https://flagcdn.com/som.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -16343,7 +16343,7 @@
     "hr": "Južnoafrička Republika",
     "fa": "آفریقای جنوبی"
     },
-    "flag": "https://flagcdn.com/ve.svg/zaf.svg",
+    "flag": "https://flagcdn.com/zaf.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -16423,7 +16423,7 @@
     "hr": "Južna Georgija i otočje Južni Sandwich",
     "fa": "جزایر جورجیای جنوبی و ساندویچ جنوبی"
     },
-    "flag": "https://flagcdn.com/ve.svg/sgs.svg",
+    "flag": "https://flagcdn.com/sgs.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -16503,7 +16503,7 @@
     "hr": "Južna Koreja",
     "fa": "کره شمالی"
     },
-    "flag": "https://flagcdn.com/ve.svg/kor.svg",
+    "flag": "https://flagcdn.com/kor.svg",
     "regionalBlocs": [],
     "cioc": "KOR"
     },
@@ -16571,7 +16571,7 @@
     "hr": "Južni Sudan",
     "fa": "سودان جنوبی"
     },
-    "flag": "https://flagcdn.com/ve.svg/ssd.svg",
+    "flag": "https://flagcdn.com/ssd.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -16654,7 +16654,7 @@
     "hr": "Španjolska",
     "fa": "اسپانیا"
     },
-    "flag": "https://flagcdn.com/ve.svg/esp.svg",
+    "flag": "https://flagcdn.com/esp.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -16732,7 +16732,7 @@
     "hr": "Šri Lanka",
     "fa": "سری‌لانکا"
     },
-    "flag": "https://flagcdn.com/ve.svg/lka.svg",
+    "flag": "https://flagcdn.com/lka.svg",
     "regionalBlocs": [
     {
     "acronym": "SAARC",
@@ -16816,7 +16816,7 @@
     "hr": "Sudan",
     "fa": "سودان"
     },
-    "flag": "https://flagcdn.com/ve.svg/sdn.svg",
+    "flag": "https://flagcdn.com/sdn.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -16909,7 +16909,7 @@
     "hr": "Surinam",
     "fa": "سورینام"
     },
-    "flag": "https://flagcdn.com/ve.svg/sur.svg",
+    "flag": "https://flagcdn.com/sur.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -16997,7 +16997,7 @@
     "hr": "Svalbard i Jan Mayen",
     "fa": "سوالبارد و یان ماین"
     },
-    "flag": "https://flagcdn.com/ve.svg/sjm.svg",
+    "flag": "https://flagcdn.com/sjm.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -17072,7 +17072,7 @@
     "hr": "Svazi",
     "fa": "سوازیلند"
     },
-    "flag": "https://flagcdn.com/ve.svg/swz.svg",
+    "flag": "https://flagcdn.com/swz.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -17151,7 +17151,7 @@
     "hr": "Švedska",
     "fa": "سوئد"
     },
-    "flag": "https://flagcdn.com/ve.svg/swe.svg",
+    "flag": "https://flagcdn.com/swe.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -17242,7 +17242,7 @@
     "hr": "Švicarska",
     "fa": "سوئیس"
     },
-    "flag": "https://flagcdn.com/ve.svg/che.svg",
+    "flag": "https://flagcdn.com/che.svg",
     "regionalBlocs": [
     {
     "acronym": "EFTA",
@@ -17318,7 +17318,7 @@
     "hr": "Sirija",
     "fa": "سوریه"
     },
-    "flag": "https://flagcdn.com/ve.svg/syr.svg",
+    "flag": "https://flagcdn.com/syr.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -17394,7 +17394,7 @@
     "hr": "Tajvan",
     "fa": "تایوان"
     },
-    "flag": "https://flagcdn.com/ve.svg/twn.svg",
+    "flag": "https://flagcdn.com/twn.svg",
     "regionalBlocs": [],
     "cioc": "TPE"
     },
@@ -17470,7 +17470,7 @@
     "hr": "Tađikistan",
     "fa": "تاجیکستان"
     },
-    "flag": "https://flagcdn.com/ve.svg/tjk.svg",
+    "flag": "https://flagcdn.com/tjk.svg",
     "regionalBlocs": [],
     "cioc": "TJK"
     },
@@ -17548,7 +17548,7 @@
     "hr": "Tanzanija",
     "fa": "تانزانیا"
     },
-    "flag": "https://flagcdn.com/ve.svg/tza.svg",
+    "flag": "https://flagcdn.com/tza.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -17632,7 +17632,7 @@
     "hr": "Tajland",
     "fa": "تایلند"
     },
-    "flag": "https://flagcdn.com/ve.svg/tha.svg",
+    "flag": "https://flagcdn.com/tha.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -17711,7 +17711,7 @@
     "hr": "Istočni Timor",
     "fa": "تیمور شرقی"
     },
-    "flag": "https://flagcdn.com/ve.svg/tls.svg",
+    "flag": "https://flagcdn.com/tls.svg",
     "regionalBlocs": [],
     "cioc": "TLS"
     },
@@ -17779,7 +17779,7 @@
     "hr": "Togo",
     "fa": "توگو"
     },
-    "flag": "https://flagcdn.com/ve.svg/tgo.svg",
+    "flag": "https://flagcdn.com/tgo.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -17853,7 +17853,7 @@
     "hr": "Tokelau",
     "fa": "توکلائو"
     },
-    "flag": "https://flagcdn.com/ve.svg/tkl.svg",
+    "flag": "https://flagcdn.com/tkl.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -17920,7 +17920,7 @@
     "hr": "Tonga",
     "fa": "تونگا"
     },
-    "flag": "https://flagcdn.com/ve.svg/ton.svg",
+    "flag": "https://flagcdn.com/ton.svg",
     "regionalBlocs": [],
     "cioc": "TGA"
     },
@@ -17982,7 +17982,7 @@
     "hr": "Trinidad i Tobago",
     "fa": "ترینیداد و توباگو"
     },
-    "flag": "https://flagcdn.com/ve.svg/tto.svg",
+    "flag": "https://flagcdn.com/tto.svg",
     "regionalBlocs": [
     {
     "acronym": "CARICOM",
@@ -18059,7 +18059,7 @@
     "hr": "Tunis",
     "fa": "تونس"
     },
-    "flag": "https://flagcdn.com/ve.svg/tun.svg",
+    "flag": "https://flagcdn.com/tun.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -18155,7 +18155,7 @@
     "hr": "Turska",
     "fa": "ترکیه"
     },
-    "flag": "https://flagcdn.com/ve.svg/tur.svg",
+    "flag": "https://flagcdn.com/tur.svg",
     "regionalBlocs": [],
     "cioc": "TUR"
     },
@@ -18227,7 +18227,7 @@
     "hr": "Turkmenistan",
     "fa": "ترکمنستان"
     },
-    "flag": "https://flagcdn.com/ve.svg/tkm.svg",
+    "flag": "https://flagcdn.com/tkm.svg",
     "regionalBlocs": [],
     "cioc": "TKM"
     },
@@ -18288,7 +18288,7 @@
     "hr": "Otoci Turks i Caicos",
     "fa": "جزایر تورکس و کایکوس"
     },
-    "flag": "https://flagcdn.com/ve.svg/tca.svg",
+    "flag": "https://flagcdn.com/tca.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -18354,7 +18354,7 @@
     "hr": "Tuvalu",
     "fa": "تووالو"
     },
-    "flag": "https://flagcdn.com/ve.svg/tuv.svg",
+    "flag": "https://flagcdn.com/tuv.svg",
     "regionalBlocs": [],
     "cioc": "TUV"
     },
@@ -18429,7 +18429,7 @@
     "hr": "Uganda",
     "fa": "اوگاندا"
     },
-    "flag": "https://flagcdn.com/ve.svg/uga.svg",
+    "flag": "https://flagcdn.com/uga.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -18512,7 +18512,7 @@
     "hr": "Ukrajina",
     "fa": "وکراین"
     },
-    "flag": "https://flagcdn.com/ve.svg/ukr.svg",
+    "flag": "https://flagcdn.com/ukr.svg",
     "regionalBlocs": [],
     "cioc": "UKR"
     },
@@ -18577,7 +18577,7 @@
     "hr": "Ujedinjeni Arapski Emirati",
     "fa": "امارات متحده عربی"
     },
-    "flag": "https://flagcdn.com/ve.svg/are.svg",
+    "flag": "https://flagcdn.com/are.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -18661,7 +18661,7 @@
     "hr": "Ujedinjeno Kraljevstvo",
     "fa": "بریتانیای کبیر و ایرلند شمالی"
     },
-    "flag": "https://flagcdn.com/ve.svg/gbr.svg",
+    "flag": "https://flagcdn.com/gbr.svg",
     "regionalBlocs": [
     {
     "acronym": "EU",
@@ -18744,7 +18744,7 @@
     "hr": "Sjedinjene Američke Države",
     "fa": "ایالات متحده آمریکا"
     },
-    "flag": "https://flagcdn.com/ve.svg/usa.svg",
+    "flag": "https://flagcdn.com/usa.svg",
     "regionalBlocs": [
     {
     "acronym": "NAFTA",
@@ -18820,7 +18820,7 @@
     "hr": "Urugvaj",
     "fa": "اروگوئه"
     },
-    "flag": "https://flagcdn.com/ve.svg/ury.svg",
+    "flag": "https://flagcdn.com/ury.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -18912,7 +18912,7 @@
     "hr": "Uzbekistan",
     "fa": "ازبکستان"
     },
-    "flag": "https://flagcdn.com/ve.svg/uzb.svg",
+    "flag": "https://flagcdn.com/uzb.svg",
     "regionalBlocs": [],
     "cioc": "UZB"
     },
@@ -18988,7 +18988,7 @@
     "hr": "Vanuatu",
     "fa": "وانواتو"
     },
-    "flag": "https://flagcdn.com/ve.svg/vut.svg",
+    "flag": "https://flagcdn.com/vut.svg",
     "regionalBlocs": [],
     "cioc": "VAN"
     },
@@ -19055,7 +19055,7 @@
     "hr": "Venezuela",
     "fa": "ونزوئلا"
     },
-    "flag": "https://flagcdn.com/ve.svg/ven.svg",
+    "flag": "https://flagcdn.com/ve.svg",
     "regionalBlocs": [
     {
     "acronym": "USAN",
@@ -19138,7 +19138,7 @@
     "hr": "Vijetnam",
     "fa": "ویتنام"
     },
-    "flag": "https://flagcdn.com/ve.svg/vnm.svg",
+    "flag": "https://flagcdn.com/vnm.svg",
     "regionalBlocs": [
     {
     "acronym": "ASEAN",
@@ -19208,7 +19208,7 @@
     "hr": "Wallis i Fortuna",
     "fa": "والیس و فوتونا"
     },
-    "flag": "https://flagcdn.com/ve.svg/wlf.svg",
+    "flag": "https://flagcdn.com/wlf.svg",
     "regionalBlocs": [],
     "cioc": ""
     },
@@ -19279,7 +19279,7 @@
     "hr": "Zapadna Sahara",
     "fa": "جمهوری دموکراتیک عربی صحرا"
     },
-    "flag": "https://flagcdn.com/ve.svg/esh.svg",
+    "flag": "https://flagcdn.com/esh.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -19358,7 +19358,7 @@
     "hr": "Jemen",
     "fa": "یمن"
     },
-    "flag": "https://flagcdn.com/ve.svg/yem.svg",
+    "flag": "https://flagcdn.com/yem.svg",
     "regionalBlocs": [
     {
     "acronym": "AL",
@@ -19440,7 +19440,7 @@
     "hr": "Zambija",
     "fa": "زامبیا"
     },
-    "flag": "https://flagcdn.com/ve.svg/zmb.svg",
+    "flag": "https://flagcdn.com/zmb.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
@@ -19572,7 +19572,7 @@
     "hr": "Zimbabve",
     "fa": "زیمباوه"
     },
-    "flag": "https://flagcdn.com/ve.svg/zwe.svg",
+    "flag": "https://flagcdn.com/zw.svg",
     "regionalBlocs": [
     {
     "acronym": "AU",
