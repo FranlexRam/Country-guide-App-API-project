@@ -4,6 +4,9 @@
 https://restcountries.com/v3.1/name/{name}?fullText=true
                 //NAME
 https://restcountries.com/v3.1/name/{name}
+
+                //ALL
+https://restcountries.com/v3.1/all
 */
 
 

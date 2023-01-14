@@ -8,9 +8,19 @@ document.addEventListener("DOMContentLoaded", e => {
 
 const fetchData = async () => {
     try {
-        const res = await fetch('testApi.json')
-        const data = await res.json()
-        console.log(data)
+        const res = await fetch('https://restcountries.com/v3.1/all')
+        console.log(res)
+
+        if (res.status === 200) {
+            const data = await res.json();
+            console.log(data)            
+        } else if (res.status === 401) {
+            console.log('Sin conexion')
+        } else if (res.status === 404) {
+            console.log('No existe el pais')
+        } else {
+            console.log('Error gravisimo')
+        }
         // banderillas(data)
         formularioCliente(data)
     } catch (error) {
