@@ -16,7 +16,7 @@ const renderCountryData = data => {
     
     if (data.length <= 10) {
         data.forEach(item => {
-            console.log(item)
+            console.log(item);
             elementos += `
             <img src="${item?.flags.svg}" class="flag-img" />
             <h2>${item?.name?.common}</h2>
@@ -74,8 +74,9 @@ const searchCountry = async(countryValue) => {
             const weatherResponse = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${countriesList[0]?.capital},${countriesList[0].cca2}&appid=${WEATHER_API_KEY}`)
             const weatherJsonData = await weatherResponse.json()
             console.log(weatherJsonData)
+            const {name, ...restweatherJsonData} = weatherJsonData //Desestructuracion de objetos
 
-            return [{...countriesList[0], ...weatherJsonData}]
+            return [{...countriesList[0], ...restweatherJsonData}] // rest operator
         }
 
         return countriesList
