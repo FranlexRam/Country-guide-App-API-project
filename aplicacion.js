@@ -1,78 +1,81 @@
-
+const WEATHER_API_KEY = 'ea3e909bea13b9ee23b45658c6702774'
 
 const result = document.getElementById('result')
 
-document.addEventListener("DOMContentLoaded", e => {
-    fetchData(e)
-})
 
-const fetchData = async () => {
-    try {
-        const res = await fetch('https://restcountries.com/v3.1/all')
-        console.log(res)
-
-        if (res.status === 200) {
-            const data = await res.json();
-            console.log(data)            
-        } else if (res.status === 401) {
-            console.log('Sin conexion')
-        } else if (res.status === 404) {
-            console.log('No existe el pais')
-        } else {
-            console.log('Error gravisimo')
-        }
-        // banderillas(data)
-        formularioCliente(data)
-    } catch (error) {
-        console.log(error)
-    }
-}
-
-const banderillas = data => {
+const renderCountryData = data => {
     let elementos = ''
-    data.forEach(item => {
-        elementos += `
-        <img src="${item.flag}" class="flag-img">
-        <h2>${item.name}</h2>
-        <div class="wrapper">
-            <div class="data-wrapper">
-                <h4><b>Capital:</b></h4>
-                <span>${item.capital}</span>
-            </div>
-        </div>
-        <div class="wrapper">
-            <div class="data-wrapper">
-                <h4><b>Population:</b></h4>
-                <span>${item.population}</span>
-            </div>
-        </div>
-        <div class="wrapper">
-            <div class="data-wrapper">
-                <h4><b>Region:</b></h4>
-                <span>${item.region}</span>
-            </div>
-        </div>
-        `
-    });
+
+    if (data.length > 10) {
+        elementos = `<h1>Too many countries to display<h1>`
+    }
+
+    if(!data.length){
+        elementos='<h1>No data found<h1>'
+    }
+    
+    if (data.length <= 10) {
+        data.forEach(item => {
+            elementos += `
+            <img src="${item?.flags.svg}" class="flag-img" />
+            <h2>${item?.name?.common}</h2>
+           ${data.length === 1 &&
+                `<div class="wrapper">
+                    <div class="data-wrapper">
+                        <h4><b>Capital:</b></h4>
+                        <span>${item?.capital}</span>
+                    </div>
+                </div>
+                <div class="wrapper">
+                    <div class="data-wrapper">
+                        <h4><b>Population:</b></h4>
+                        <span>${item?.population}</span>
+                    </div>
+                </div>
+                <div class="wrapper">
+                    <div class="data-wrapper">
+                        <h4><b>Region:</b></h4>
+                        <span>${item?.region}</span>
+                    </div>
+                </div>`
+                }
+            `
+        });
+    }
     result.innerHTML = elementos
 }
 
+const searchCountry = async(countryValue) => {
 
+       try {
 
-// INPUT
-let searchInput = document.getElementById('buscador');
+        if(!countryValue.length) return []
 
-const formularioCliente = data => {
-    searchInput.addEventListener('keyup', e => {
-        e.preventDefault()
-        const letraCliente = searchInput.value.toLowerCase()
-        
-        const arrayFiltrado = data.filter(item => {
-            const letraApi = item.name.toLowerCase()
-            if (letraApi.indexOf(letraCliente) !== -1) {
-                return item
-            }
-        })
-        banderillas(arrayFiltrado);
-    })
+        const response = await fetch(`https://restcountries.com/v3.1/name/${countryValue}`)
+        const countriesList = await response.json()
+
+        if(countriesList.length === 1){
+            const weatherResponse = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${countriesList[0]?.capital},${countriesList[0].cca2}&appid=${WEATHER_API_KEY}`)
+            const weatherJsonData = await weatherResponse.json()
+            console.log(weatherJsonData)
+
+            return [{...countriesList[0], ...weatherJsonData}]
+        }
+
+        return countriesList
+
+       } catch (error) {
+        console.log(error)
+       }
 }
+
+
+document.addEventListener("DOMContentLoaded", e => {
+    let searchInput = document.getElementById('buscador');
+        searchInput.addEventListener('keyup', async(e) => {
+            e.preventDefault()
+            const inputValue = e.target.value.toLowerCase();
+            const countriesListResponse =  await searchCountry(inputValue)
+            renderCountryData(countriesListResponse);
+        })
+})
