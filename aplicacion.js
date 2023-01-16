@@ -7,11 +7,11 @@ const renderCountryData = data => {
     let elementos = ''
 
     if (data.length > 10) {
-        elementos = `<h1>Too many countries to display<h1>`
+        elementos = `<h1 id="resultError">Too many countries to display<h1>`
     }
 
     if(!data.length){
-        elementos='<h1>No data found<h1>'
+        elementos='<h1 id="resultError">No data found<h1>'
     }
     
     if (data.length <= 10) {
