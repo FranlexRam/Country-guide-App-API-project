@@ -16,6 +16,7 @@ const renderCountryData = data => {
     
     if (data.length <= 10) {
         data.forEach(item => {
+            console.log(item)
             elementos += `
             <img src="${item?.flags.svg}" class="flag-img" />
             <h2>${item?.name?.common}</h2>
@@ -37,7 +38,21 @@ const renderCountryData = data => {
                         <h4><b>Region:</b></h4>
                         <span>${item?.region}</span>
                     </div>
-                </div>`
+                </div>
+                <div class="wrapper">
+                    <div class="data-wrapper">
+                        <h4><b>Temperature:</b></h4>
+                        <span>${item?.main?.temp}<span> F</span></span>
+                    </div>
+                </div>
+                <div class="wrapper">
+                    <div class="data-wrapper">
+                        <img src="${item?.flags.svg}" class="flag-img" />
+                        <h4><b>Current weather:</b></h4>
+                        <span>${item?.weather[0]?.description}</span>
+                    </div>
+                </div>
+                `
                 }
             `
         });
@@ -53,6 +68,7 @@ const searchCountry = async(countryValue) => {
 
         const response = await fetch(`https://restcountries.com/v3.1/name/${countryValue}`)
         const countriesList = await response.json()
+        console.log(response)
 
         if(countriesList.length === 1){
             const weatherResponse = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${countriesList[0]?.capital},${countriesList[0].cca2}&appid=${WEATHER_API_KEY}`)
@@ -63,6 +79,8 @@ const searchCountry = async(countryValue) => {
         }
 
         return countriesList
+        console.log(response)
+        console.log(weatherJsonData)
 
        } catch (error) {
         console.log(error)
