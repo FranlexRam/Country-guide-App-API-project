@@ -47,7 +47,7 @@ const renderCountryData = data => {
                 </div>
                 <div class="wrapper">
                     <div class="data-wrapper">
-                        <img src="${item?.flags.svg}" class="flag-img" />
+                        <img src="http://openweathermap.org/img/wn/10d@2x.png" class="weather-img" />
                         <h4><b>Current weather:</b></h4>
                         <span>${item?.weather[0]?.description}</span>
                     </div>
