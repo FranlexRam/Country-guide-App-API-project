@@ -88,6 +88,11 @@ input:not(:placeholder-shown) {
   margin-top: 6.55em;
 }
 
+#resultErrorNotFound {
+  text-align: center;
+  margin-top: 5.55em;
+}
+
 .container .flag-img {
   display: block;
   width: 45%;
@@ -203,4 +208,29 @@ input:not(:placeholder-shown) {
   border-width: 0.2em 0em 0em 0.2em;
   --deg: -135deg;
   animation-direction: reverse;
+}
+
+
+@media (min-width: 100px) and (max-width: 340px){
+	#resultError{
+    margin-top: 10.55em;
+	}
+}
+
+@media (min-width: 341px) and (max-width: 530px){
+	#resultError{
+    margin-top: 9.55em;
+	}
+}
+
+@media (min-width: 530px) and (max-width: 775px){
+	#resultError{
+    margin-top: 8.55em;
+	}
+}
+
+@media (min-width: 775px) {
+	#resultError{
+    margin-top: 8.55em;
+	}
 }

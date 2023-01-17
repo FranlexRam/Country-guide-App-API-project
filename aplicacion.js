@@ -9,18 +9,19 @@ const renderCountryData = data => {
     if (data.length > 10) {
         elementos = `
         <div class="loader">
-            <div class="face">
-              <div class="circle"></div>
-            </div>
-            <div class="face">
-              <div class="circle"></div>
-            </div>
+        <div class="face">
+        <div class="circle"></div>
         </div>
-        <h1 id="resultError">Too many countries to display<h1>`
+        <div class="face">
+        <div class="circle"></div>
+        </div>
+        </div>
+        <h1 id="resultError">Too many countries to display<h1>
+        `
     }
 
     if(!data.length){
-        elementos='<h1 id="resultError">No data found<h1>'
+        elementos='<h1 id="resultErrorNotFound">No data found<h1>'
     }
 
     if (data.length == '') {
