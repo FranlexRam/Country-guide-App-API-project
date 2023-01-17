@@ -7,11 +7,24 @@ const renderCountryData = data => {
     let elementos = ''
 
     if (data.length > 10) {
-        elementos = `<h1 id="resultError">Too many countries to display<h1>`
+        elementos = `
+        <div class="loader">
+            <div class="face">
+              <div class="circle"></div>
+            </div>
+            <div class="face">
+              <div class="circle"></div>
+            </div>
+        </div>
+        <h1 id="resultError">Too many countries to display<h1>`
     }
 
     if(!data.length){
         elementos='<h1 id="resultError">No data found<h1>'
+    }
+
+    if (data.length == '') {
+        elementos=''
     }
     
     if (data.length <= 10) {
@@ -42,7 +55,7 @@ const renderCountryData = data => {
                 <div class="wrapper">
                     <div class="data-wrapper">
                         <h4><b>Temperature:</b></h4>
-                        <span>${item?.main?.temp}<span> F</span></span>
+                        <span>${((item?.main?.temp)-273.15).toFixed(2)}<span> °C</span></span>
                     </div>
                 </div>
                 <div class="wrapper">
